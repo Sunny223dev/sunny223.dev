@@ -1,1 +1,3 @@
-## 🌐 Website for Sunny223 made in HTML & CSS.
+## 🌐 Website
+
+Website I made for myself (Sunny223), I made it in HTML & CSS.
